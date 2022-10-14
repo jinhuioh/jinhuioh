@@ -3,6 +3,7 @@ I'm OJH
 
 ✨Skills✨</br>
 IDE & Languages</br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
@@ -32,9 +33,20 @@ IDE & Languages</br>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
 
-Tools</br>
+✨Tools✨</br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=Stack Overflow&logoColor=white">
 
 
+:books:Education</br>
+DUKSUNG WOMEN'S UNIVERSITY</br>
+Department of Mathematics</br>
+
+🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <!--
 **jinhuioh/jinhuioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
