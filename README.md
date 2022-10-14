@@ -49,7 +49,7 @@ Tools</br>
 DUKSUNG WOMEN'S UNIVERSITY</br>
 Department of Mathematics</br>
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ...</br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <!--
 **jinhuioh/jinhuioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
