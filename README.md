@@ -51,6 +51,9 @@ Department of Mathematics</br>
 
 🌱 I’m currently learning ...</br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuioh&show_icons=true&theme=radical)
+
 <!--
 **jinhuioh/jinhuioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
