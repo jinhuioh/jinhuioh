@@ -50,9 +50,12 @@ DUKSUNG WOMEN'S UNIVERSITY</br>
 Department of Mathematics</br>
 
 🌱 I’m currently learning ...</br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuioh&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuioh&show_icons=true&theme=radical)<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhuioh&layout=compact"><br><br>
 
 <!--
 **jinhuioh/jinhuioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
