@@ -44,18 +44,28 @@ Tools</br>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=Stack Overflow&logoColor=white">
 
-
+</br>
+</br>
+✨Projects✨</br>
+- Spring를 이용한 상품 추천 시스템 기반 의류 쇼핑몰 구현 AWS(ubuntu)배포(2022)</br>
+- Django를 이용한 MVT 모델의 의류 상품 카테고리 분류 AWS(ubuntu)배포(2022)</br>
+- DL기반 의류이미지 분류 & Tkinter를 이용한 Chatbot 프로젝트(2022)</br>
+- Kakao API를 이용한 남성복 추천 시스템(2022)</br>
+- Android Studio를 이용한 Java기반 쇼핑몰 프로젝트 앱 개발 AWS(ubuntu)배포(2022)</br>
+</br>
+</br>
 :books:Education</br>
 DUKSUNG WOMEN'S UNIVERSITY</br>
 Department of Mathematics</br>
-
+</br>
+</br>
 🌱 I’m currently learning ...</br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuioh&show_icons=true&theme=radical)<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhuioh&layout=compact"><br><br>
+
 
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
