@@ -59,8 +59,8 @@ DUKSUNG WOMEN'S UNIVERSITY</br>
 Department of Mathematics</br>
 </br>
 </br>
-🌱 I’m currently learning ...</br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>
+<!--🌱 I’m currently learning ...</br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuioh&show_icons=true&theme=radical)<br><br>
 
